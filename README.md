@@ -43,13 +43,6 @@ The ANN achieved the lowest error values among the models in the full test-perio
 - The ANN captured patterns that improved longer-horizon forecasting performance in this experiment.
 - The ANN results were averaged across six random seeds to reduce dependence on a single initialization.
 
-## Contributions
-- Prepared and explored historical JCI time series data.
-- Conducted stationarity and time series pattern analysis.
-- Implemented and compared traditional forecasting models and an artificial neural network.
-- Evaluated models using MAE, RMSE, and MAPE.
-- Analyzed model performance across forecasting methods and ANN configurations.
-
 ## Tools and Technologies
 - **Language:** R (as stated in the research design)
 - **Time series methods:** Naive, Naive with Drift, SES, DES, ARIMA, ANN
@@ -59,8 +52,8 @@ The ANN achieved the lowest error values among the models in the full test-perio
 The paper identifies the source file as `Data Historis Jakarta Stock Exchange.csv`, obtained from Investing.com. Please check the source's current terms and conditions before redistributing the raw data.
 
 ## Authors
-- Marcell Prasetyo — BINUS University
-- Aaron Jeremy Alexander — BINUS University
+- Marcell Prasetyo
+- Aaron Jeremy Alexander
 
 ## Disclaimer
 This project is an academic forecasting comparison, not financial advice. Forecast accuracy on a historical test period does not guarantee future performance.
